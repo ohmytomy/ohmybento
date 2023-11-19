@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube!',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -225,6 +225,8 @@ const CONFIG = {
 					link: 'https://github.com/migueravila',
 				},
 			],
+
+		
 		},
 	],
 };
